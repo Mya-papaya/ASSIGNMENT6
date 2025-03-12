@@ -14,9 +14,13 @@ While adhering to the tutorial’s foundation, I introduced several modification
 - I incorporated **new assets**, further personalizing the final composition.  
 
 ## Lessons Learned
-This project deepened my understanding of TouchDesigner’s instancing techniques and interactive controls. Experimenting with parameter adjustments allowed me to see how small changes could drastically affect the overall output. Beyond technical growth, this assignment reinforced the importance of customization in digital art, as even a structured tutorial can serve as a foundation for unique creative expression.
+This project provided an invaluable learning experience in both technical execution and artistic customization. One of the most significant lessons was understanding the importance of instancing and how it can be used to generate complex visual structures efficiently. By adjusting parameters such as radius, scale, and distribution, I gained insight into how TouchDesigner processes data to create dynamic compositions.
 
-Working on this project has further inspired me to explore interactive visual design, pushing the boundaries of generative art and real-time interactivity.
+Additionally, the experience emphasized the importance of interactive design. By linking mouse input to visual elements, I was able to explore how user engagement can influence digital artwork. This opened my eyes to new creative possibilities, particularly in fields like interactive installations and live performances.
+
+Another key takeaway was the impact of color theory and material selection in digital art. Experimenting with different textures and shades helped me appreciate how subtle changes can dramatically alter the mood and perception of a piece.
+
+Overall, this assignment deepened my understanding of real-time generative visuals, inspiring me to continue experimenting with TouchDesigner and explore how technology can merge with artistic expression.
 
 ## Sources
 - **Tutorial**: [Instancing Geometry - Mouse Interactive - TouchDesigner](https://derivative.ca/community-post/tutorial/instancing-geometry-mouse-interactive-touchdesigner) by Paketa12  
